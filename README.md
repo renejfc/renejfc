@@ -21,5 +21,5 @@
 
 - 📫 **Get in touch:** 
 
-|  [<img src="https://github.com/renejfc/renejfc/blob/master/assets/twitter.svg" alt="Twitter Logo" width="24">](https://twitter.com/ReneJFC_) |  [<img src="https://github.com/renejfc/renejfc/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="24">](https://linkedin.com/in/ReneJFC) |  [<img src="https://github.com/renejfc/renejfc/blob/master/assets/gmail.svg" alt="Gmail Logo" width="24">](renejfc@gmail.com)
+|  [<img src="https://github.com/renejfc/renejfc/blob/master/assets/twitter.svg" alt="Twitter Logo" width="24">](https://twitter.com/ReneJFC_) |  [<img src="https://github.com/renejfc/renejfc/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="24">](https://linkedin.com/in/ReneJFC) |  [<img src="https://github.com/renejfc/renejfc/blob/master/assets/gmail.svg" alt="Gmail Logo" width="24">](hola@renejfc.dev)
 |---|---|---|
