@@ -7,7 +7,7 @@
 > #### René is a curious person that loves to learn new things and make others love 'em too. He's an [Internet, Web Development, UX/UI] enthusiast, trying to contribute to the Hispanic tech community by sharing about his journey through it.
 > ##### Also, he loves music, rainy days, and connect with people. :)
 ----
-- 👨‍💻 **I'm currently working on:** my first portfolio & a hiring week platform for [@FactoriaF5](http://www.factoriaf5.org/)
+- 👨‍💻 **I'm currently working on:** my first portfolio
 
 - 🌱 **I'm currently learning:** web development & ux/ui @ an inclusive bootcamp
 
