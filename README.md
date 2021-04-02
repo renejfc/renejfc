@@ -9,7 +9,7 @@
 ----
 - 👨‍💻 **I'm currently working on:** little projects
 
-- 🌱 **I'm currently learning:** react @ pluralsight
+- 🌱 **I'm currently learning:** React
 
 - 💬 **Ask me about:** empathy :)
 
