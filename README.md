@@ -5,7 +5,7 @@
 ### Hello world <img src="https://github.com/renejfc/renejfc/blob/main/assets/hi.gif" width="24px">
 ----
 > #### René is a curious person that loves to learn new things and make others love 'em too. He's an «internet, web development, UX/UI enthusiast», trying to contribute to the hispanic tech community by sharing his journey through it.
-> ##### Also, he loves music, rainy days, and connect with people. :)
+> ##### Also, he loves videogames, music, rainy days, and connect with people. :)
 ----
 - 👨‍💻 **I'm currently working on:** little projects
 
