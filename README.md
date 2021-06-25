@@ -7,7 +7,7 @@
 > #### René is a curious person who loves to learn new things and make others love 'em too. He's an «internet, web development, UX/UI enthusiast», trying to contribute to the hispanic tech community by sharing his journey through it.
 > ##### Also, he loves videogames, music, rainy days, and connect with people. :)
 ----
-- 👨‍💻 **I'm currently working on:** little projects
+- 👨‍💻 **I'm currently working on:** a little break :)
 
 - 🌱 **I'm currently learning:** React
 
