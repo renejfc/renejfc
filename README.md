@@ -5,7 +5,7 @@
 ----
 
 - 👨‍💻 **I'm currently working on** —> a web extension :)
-- 🌱 **I'm currently learning (and working with)** —> vue
+- 🌱 **I'm currently learning** —> ...
 - 💬 **Ask me about** —> empathy :)
 - ⚡ **Fun fact** —> I'm pluviophile
 - 😄 **Pronouns** —> he/him
