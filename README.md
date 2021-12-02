@@ -5,7 +5,7 @@
 ----
 
 - 👨‍💻 **I'm currently working on** —> a web extension :)
-- 🌱 **I'm currently learning** —> ...
+- 🌱 **I'm currently learning** —> how to focus, learn and ship.
 - 💬 **Ask me about** —> empathy :)
 - ⚡ **Fun fact** —> I'm pluviophile
 - 😄 **Pronouns** —> he/him
