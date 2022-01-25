@@ -4,7 +4,7 @@
 > ##### Also, he loves videogames, music, rainy days, and connect with people. :)
 ----
 
-- 👨‍💻 **I'm currently working on** —> a web extension :)
+- 👨‍💻 **I'm currently working on** —> ...
 - 🌱 **I'm currently learning** —> how to focus, learn and ship.
 - 💬 **Ask me about** —> empathy :)
 - ⚡ **Fun fact** —> I'm pluviophile
